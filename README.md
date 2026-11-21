@@ -18,22 +18,14 @@ This project performs exploratory data analysis (EDA) on an expanded smart-home 
 - Creates four charts: temperature distribution, average humidity by room, daily average temperature, and alert flag counts
 - Generates a PDF report and an Excel workbook with the summary tables, two embedded charts, and the full dataset
 
-## Project structure
-```
-smart-home-eda/
+project-submission/
+├── .streamlit/
+│   └── config.toml
+├── Dataset expanded.csv
 ├── README.md
-├── generate_eda_report.py
-├── data/
-│   ├── Dataset_expanded.csv
-│   └── Data_dictionary.csv
-├── outputs/
-│   ├── EDA_ANALYSIS_REPORT.pdf
-│   └── EDA_Analysis_Results.xlsx
-└── docs/
-    ├── Project Report.docx
-    ├── Project Synopsis.docx
-    └── source-code-python.pdf
-```
+├── dashboard.py
+├── requirements.txt
+└── source-code
 
 ## Requirements
 - Python 3.9 or later
