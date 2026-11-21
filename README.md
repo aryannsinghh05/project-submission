@@ -66,4 +66,4 @@ The script creates `EDA_ANALYSIS_REPORT.pdf`, `EDA_Analysis_Results.xlsx` and a 
 The charts describe the dataset only. They do not establish physical sensor accuracy or prove that a hardware prototype is operating.
 
 ## Author
-Akshita, B.Tech Electrical and Computer Engineering, ABES Engineering College, Ghaziabad
+Aryan Singh, B.Tech Electrical and Computer Engineering, ABES Engineering College, Ghaziabad
